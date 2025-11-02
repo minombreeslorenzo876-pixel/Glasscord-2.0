@@ -332,6 +332,7 @@ body {
     border: none;
     overflow: hidden;
     border-radius: 20px;
+    min-width: var(--custom-member-list-width);
 }
 
 .members_c8ffbb {
