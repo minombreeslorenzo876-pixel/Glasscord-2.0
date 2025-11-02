@@ -1,5 +1,8 @@
 # Glasscord
 
+<img width="2557" height="1378" alt="Glasscord Preview" src="https://github.com/user-attachments/assets/383d7790-5e70-440d-8b48-776d24999117" />
+
+
 Glasscord is a clean, modern, and rounded Discord theme inspired by liquid glass aesthetics.
 
 It combines soft blur effects, subtle brightness, and smooth animations to create an elegant and modern interface.
