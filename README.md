@@ -16,7 +16,7 @@ It combines soft blur effects, subtle brightness, and smooth animations to creat
 You can easily tweak the glass effect to match your personal style.
 Open the CSS file and look for this section:
 
-<img width="402" height="312" alt="image" src="https://github.com/user-attachments/assets/1e374207-c1a3-462a-a508-4e3200192a53" />
+<img width="500" height="305" alt="image" src="https://github.com/user-attachments/assets/b2a6053f-c7d0-4cf1-b4dd-276a303f76dd" />
 
 You can experiment with these values until you find your preferred look.
 For example:
