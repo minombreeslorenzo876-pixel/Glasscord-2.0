@@ -3458,3 +3458,33 @@ svg.icon_a22cb0 {
 .pulseGradient__11664 {
     display: none;
 }
+
+.theme-dark .staticToolbar_bba883 {
+    background-color: transparent;
+}
+
+.topicContainer__0511a {
+    background: transparent;
+    border-radius: 20px !important;
+    box-shadow: var(--glass-shadow);
+}
+
+.scroller__53543 {
+    background-color: transparent;
+}
+
+.item__344e6 {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
+
+.settingCard__1a4ef {
+    background: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.cardFolder__1a4ef {
+    background-color: transparent;
+}
