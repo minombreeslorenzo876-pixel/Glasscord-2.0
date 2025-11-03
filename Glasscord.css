@@ -1259,7 +1259,7 @@ span.button__67645.enabled__67645:hover {
 .hoverButton__06ab4.selected__06ab4,
 .hoverButton__06ab4:hover,
 keyboard-mode .hoverButton__06ab4:focus {
-    background-color: transparent;
+    background-color: #00000029;
 }
 
 .hoverButtonGroup__06ab4 {
@@ -2397,19 +2397,15 @@ keyboard-mode .hoverButton__06ab4:focus {
     box-shadow: var(--glass-shadow);
 }
 
-canvas {
-    display: none;
-}
-
 .reaction__23977.reactionMe__23977 {
-    background-color: transparent;
+    background-color: #ffffff24;
     border-color: transparent;
     box-shadow: var(--glass-shadow);
 }
 
 .reaction__23977:hover,
 .reactionBtn__23977:hover {
-    background-color: transparent;
+    background-color: #00000033;
     border-color: transparent;
     box-shadow: var(--glass-shadow);
 }
@@ -3320,4 +3316,141 @@ section.authBox__921c5.theme-dark.images-dark.disable-adaptive-theme {
 
 .expressive_a22cb0 .expressiveFill_a22cb0 {
     background-color: transparent;
+}
+
+.expressive_a22cb0:hover .expressiveFill_a22cb0 {
+    background-color: #ffffff14;
+}
+
+svg.icon_a22cb0 {
+    color: white !important;
+}
+
+.featuredBlockBadge__08415 {
+    color: white !important;
+}
+
+.reaction__23977,
+.reactionBtn__23977 {
+    background-color: transparent;
+}
+
+.reaction__23977 {
+    background: transparent;
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
+
+.reactionCount__23977 {
+    color: white !important;
+}
+
+.mention {
+    border-radius: 8px;
+    box-shadow: var(--glass-shadow);
+}
+
+.chipletContainerInner__10651 {
+    background: transparent;
+    border-radius: 6px;
+    box-shadow: var(--glass-shadow);
+}
+
+.stickerAsset__31fc2 {
+    border-radius: 20px;
+}
+
+.cozy_c19a55 .timestamp_c19a55 {
+    color: white !important;
+}
+
+.emoji.jumboable {
+    border-radius: 13px;
+}
+
+.spoilerContainer__54ab5.attachmentContainer__54ab5 {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow) !important;
+}
+
+.wrapperAudio_cf09d8 {
+    background-color: transparent;
+}
+
+.wrapperAudio_cf09d8.newMosaicStyle_cf09d8 {
+    border-radius: 20px;
+}
+
+.audioControls_cf09d8 {
+    background-color: transparent;
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+}
+
+.gifTag_f60819 {
+    border-radius: 8px;
+}
+
+.bottomBar__0f481 {
+    border-radius: 18px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container__0be77 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.answerInner__4c520 {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container_f69538 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.wrapper_f61d60 {
+    border-radius: 8px;
+    box-shadow: var(--glass-shadow);
+}
+
+.mentioned__5126c {
+    border-radius: 20px !important;
+}
+
+.perkCardImage_a1e8da {
+    border-radius: 20px;
+    border: none;
+    box-shadow: var(--glass-shadow);
+}
+
+.content_a8c622 {
+    background-color: transparent;
+}
+
+.upsellFooter__5e07c {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.header__49fc1 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.role_b4b2c3 {
+    border-radius: 10px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container__3f21e {
+    box-shadow: var(--glass-shadow);
 }
