@@ -3488,3 +3488,14 @@ svg.icon_a22cb0 {
 .cardFolder__1a4ef {
     background-color: transparent;
 }
+
+.emptyChannelIcon__00de6 {
+    background-color: transparent;
+}
+
+.toolbar_bba883 {
+    background-color: transparent;
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
