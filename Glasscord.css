@@ -3500,3 +3500,15 @@ svg.icon_a22cb0 {
     box-shadow: var(--glass-shadow);
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
 }
+
+.wrapper_fa8995 {
+    background-color: transparent;
+    border-radius: 20px;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    box-shadow: var(--glass-shadow);
+}
+
+.facepileItemContainer_aaa08b>foreignObject {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
