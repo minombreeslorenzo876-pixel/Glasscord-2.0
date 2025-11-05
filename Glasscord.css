@@ -3312,6 +3312,7 @@ section.authBox__921c5.theme-dark.images-dark.disable-adaptive-theme {
     border: none;
     border-radius: 20px;
     box-shadow: var(--glass-shadow);
+    background-color: transparent;
 }
 
 .expressive_a22cb0 .expressiveFill_a22cb0 {
