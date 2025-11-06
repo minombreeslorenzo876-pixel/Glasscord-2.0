@@ -3541,3 +3541,9 @@ svg.icon_a22cb0 {
 .topic__6ec1a {
     color: white !important;
 }
+
+.container__93db4 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
