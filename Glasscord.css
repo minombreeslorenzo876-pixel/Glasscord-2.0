@@ -3608,3 +3608,8 @@ img.thumbnail__0f2e8 {
 .icon_a629d4 {
     border-radius: 10px;
 }
+
+.ping__06d62.largePing__06d62 {
+    border-radius: 10px;
+    box-shadow: var(--glass-shadow);
+}
