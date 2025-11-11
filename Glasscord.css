@@ -3848,3 +3848,64 @@ button.close_e50a4d.close__49fc1.button__201d5.lookBlank__201d5.colorBrand__201d
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
     box-shadow: var(--glass-shadow) !important;
 }
+/* =========================
+   🌟 Mover barra de servidores abajo (Glasscord Fork)
+   ========================= */
+
+/* Contenedor principal de la barra */
+.panels_c48ade {
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    width: auto !important;
+    height: 60px !important; /* altura de la barra */
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 0 10px !important;
+    background: rgba(255, 255, 255, 0.05) !important; /* vidrio líquido */
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level)) !important;
+    border-radius: 12px 12px 0 0 !important;
+    box-shadow: var(--glass-shadow) !important;
+    z-index: 9999 !important;
+}
+
+/* Iconos individuales */
+.sidebarList__5e434,
+.wrapper_ef3116,
+.sidebarList_c48ade {
+    flex-direction: row !important;
+    height: 100% !important;
+    margin-left: 4px !important;
+    margin-right: 4px !important;
+}
+
+/* Ajuste del scroll */
+.scroller_ef3116 {
+    flex-direction: row !important;
+    padding: 0 !important;
+}
+
+/* Ajusta la separación de cada ícono */
+.sidebarList__5e434 > * {
+    margin: 0 6px !important;
+}
+
+/* Quitar offsets de izquierda */
+.panels_c48ade,
+.wrapper_ef3116,
+.sidebarList_c48ade {
+    left: auto !important;
+    bottom: 0 !important;
+}
+
+/* Mantener efecto vidrio */
+.panels_c48ade,
+.wrapper_ef3116 {
+    background: rgba(255, 255, 255, 0.05) !important;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level)) !important;
+    border-radius: 12px 12px 0 0 !important;
+    box-shadow: var(--glass-shadow) !important;
+}
